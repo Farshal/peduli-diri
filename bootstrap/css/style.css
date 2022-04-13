@@ -1,0 +1,94 @@
+/* Sign-In */
+
+.content-login {
+  width: 976px;
+  height: 549px;
+  margin-left: 75px;
+  margin-top: 80px !important;
+}
+
+.nav-login {
+  margin-top: 40px !important;
+  margin-left: 35px !important;
+  width: 398px;
+}
+
+.link-signin {
+  font-weight: 700;
+  color: #29b4e0;
+  font-size: 19px;
+  margin-left: 220px !important;
+}
+
+.link-signup {
+  color: #5f5f5f;
+  font-size: 19px;
+  margin-right: 5px;
+}
+
+.background-sign-in {
+  background: rgb(21, 170, 217);
+  background: linear-gradient(0deg, rgba(21, 170, 217, 1) 0%, rgba(126, 224, 255, 1) 100%);
+  width: 500px;
+  height: 549px;
+}
+
+.login-ilust {
+  margin-top: 100px;
+  margin-left: 60px;
+}
+
+.content-desc {
+  width: 488px;
+  height: 549px;
+}
+
+.header-text {
+  margin-top: 150px !important;
+}
+
+.header-text h1 {
+  font-size: 23px;
+  margin-left: 35px;
+  font-weight: 600;
+  color: #5f5f5f;
+}
+
+.header-text p {
+  font-size: 16px;
+  color: #828282;
+  margin-left: 35px;
+}
+
+.form-login {
+  width: 398px;
+  margin-left: 35px;
+}
+
+.form-login button {
+  width: 398px;
+  background: rgb(21, 170, 217);
+  background: linear-gradient(90deg, rgba(21, 170, 217, 1) 0%, rgba(126, 224, 255, 1) 100%);
+  font-size: 17;
+  font-weight: 700;
+  color: floralwhite;
+}
+
+.form-login input {
+  outline: 0;
+  border-width: 0 0 2px;
+  width: 398px;
+}
+
+.form-login input:focus {
+  border-color: rgb(21, 170, 217);
+}
+
+/* Sign UP */
+
+.link-signup-regis {
+  font-weight: 700;
+  color: #29b4e0;
+  font-size: 19px;
+  margin-left: 220px !important;
+}
